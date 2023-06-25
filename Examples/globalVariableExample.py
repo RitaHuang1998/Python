@@ -1,3 +1,4 @@
+# 2023/06/26 
 # Global Variable Example
 
 # Global name = Rita
